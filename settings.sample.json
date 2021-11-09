@@ -1,4 +1,7 @@
 {
     "api_endpoint": "https://api.libreview.io",
-    "api_token": "<yourApiToken>"
+    "api_token": "<yourApiToken>",
+    "number_of_periods": 5,
+    "period_size": 14,
+    "from_last_date": "<date_in_JavaScript_Date.toJSON()_format_or_blank_string" 
 }
